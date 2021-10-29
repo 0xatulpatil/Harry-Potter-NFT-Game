@@ -96,7 +96,6 @@ useEffect(()=>{
   CheckIfWalletIsConnected();
 },[]);
 
-
 useEffect(() => {
   
   const fetchNFTMetadata = async () => {
